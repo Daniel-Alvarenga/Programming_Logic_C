@@ -1,0 +1,4 @@
+1. Construa uma função que retorne o dobro de dado número.
+2. Construa uma função que retorne o antecessor de dado número.
+3. Construa uma função que retorne o sucessor de dado número.
+4. Construa um procedimento que informe se um numero é posivito ou negativo. 

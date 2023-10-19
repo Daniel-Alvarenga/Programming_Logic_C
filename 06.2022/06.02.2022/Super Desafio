@@ -1,0 +1,29 @@
+#include<stdlib.h>
+#include<stdio.h>
+#include<locale.h>
+#include<conie.h>
+
+	int main(){
+		setlocale(LC_ALL,"Portuguese");
+		int c,q,i[3],x;
+		char name[100];
+		
+		printf("Insira seu nome:");
+		gets(name);
+		
+		printf("\n\nInsira o NÚMERO do curso desejado:\n1-Administração: R$800.00\n2-Análise de Sistemas: R$1300.00\n3-Enfermagem: R$850.00\n4-Direito: R$900.00");
+		scanf("%d",&c);
+	
+		printf("\n\nOk, estes são todos os descontos disponíveis:\n1. Servidor Público: 5% de desconto\n2. Aluno oriundo de escola pública: 10% de desconto\n3. Segunda Graduação: 10% de desconto.")
+		printf("Insira quantos desses descontos você poderá usar:\t")
+		scanf("%d",q);
+
+        for{q;q>0;q--}{
+        	x=0;
+        	printf("Insira o %dº desconto que você pode usar:");
+        	scanf("%d",i[x]);
+        	x++;
+		}
+	}
+
+

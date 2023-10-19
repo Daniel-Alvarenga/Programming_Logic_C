@@ -1,0 +1,3 @@
+1)	Utilizando uma matriz de [5][5] exiba um X na tela:
+2) 	Preencha uma matriz 5x5 de números inteiros e escreva os números cuja soma da linha e coluna resultem num número ímpar.
+3)  	Preencha uma matriz 10X10 com numeros inteiros quaisquer e exiba apenas diagonal princial.

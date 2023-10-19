@@ -1,0 +1,8 @@
+1) Faça um programa em que o usuário informe seu salário e a quantidade de filhos. Ele deve receber R$100 de auxílio creche para cada filho declarado.Caso não tenha filhos deve apararecer a mensagem: "Sem direito ao auxilio creche"
+
+
+2) Faça um programa em que o usuário informe sua senha, a senha válida é 1234. Apresente acesso negado ou acesso permitido.
+
+3) Faça um programa em que o usuário informe um numero e apresente se este numero é impar ou par.
+
+ 

@@ -1,0 +1,5 @@
+1- Leia uma matriz 4 x 4, conte e escreva quantos valores maiores que 10 ela possui.
+
+2- Leia uma matriz 5 x 5. Leia tambem um valor ´ X. O programa devera fazer uma busca ´
+desse valor na matriz e, ao final, escrever a localizac¸ao (linha e coluna) ou uma mensa- ˜
+gem de “nao encontrado”

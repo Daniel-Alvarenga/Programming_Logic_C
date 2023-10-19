@@ -1,0 +1,21 @@
+#include<stdlib.h>
+#include<stdio.h>
+#include<locale.h>
+
+	int main(){
+		setlocale(LC_ALL,"Portuguese");
+		int cont=0, st, end, tpn, tp;
+		
+		printf("Olá querido usúario.\n\n Insira abaixo o ínicio e o final de uma sequência numérica:\n");
+		scanf("%d",&st);
+		
+		printf("\n:\n");
+		scanf("%d",&end);
+		
+		tpn=st%2; if (tpn=1){st++;}
+
+		for(cont=st;st<=end;cont+tp){printf("%d\n",cont);}
+		
+		system("pause");
+	}
+

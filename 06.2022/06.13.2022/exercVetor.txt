@@ -1,0 +1,6 @@
+1) Armazene 20 valores em um vetor depois liste os números ímpares e os números pares:
+
+2) Faça um programa que preencha um vetor de 10 posições com números inteiros. Depois os apresente na ordem inversa a inserida.
+
+3)Faça um programa que imprima 40 vezes (de tras para frente) o vetor:
+char senha[10]={'E','T','S','E','P',' ','O','D','U','T'};
