@@ -2,7 +2,7 @@
 Exercises to learn C programming logic, used at ETEC in a technical course of systems development
 
 Esse repositório contém exercícios para iniciantes em programação que foram usados no meu primeiro ano no curso técnico de desenvolvimento de sistemas, direcionados para linaguagem C, as respostas estão em arquivos cpp, com seus respectivos executáveis.
-Você pode clonar esse repositório se quiser executar cada exercício para tentar replicá-los, caso esteja iniciando os estudos de programação.
+Você pode clonar esse repositório se quiser executar cada exercício para tentar replicá-los, caso esteja iniciando os estudos de programação e desenvolvimento.
 
 Esse repositório ainda vem sendo atualizado com os exercícios, mas suas resoluções já estão todas aqui.
 
